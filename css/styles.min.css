@@ -802,13 +802,13 @@ header .member-actions {
 #map-content {
   margin-top: 40px;
   padding: 50px 60px;
-  background: #fff;
+  background: #fffddd;
   -webkit-transition: opacity 0.5s, visibility 0.6s, margin-top 0.5s;
   transition: opacity 0.5s, visibility 0.6s, margin-top 0.5s;
 }
 #btn-show-content {
   padding: 20px;
-  background: #fff;
+  background: #fffddd;
   cursor: pointer;
   display: inline-block;
   -webkit-transition: opacity 0.5s, visibility 0.6s, margin-top 0.5s;
