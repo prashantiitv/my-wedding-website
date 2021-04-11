@@ -183,7 +183,7 @@ $(document).ready(function () {
       encodeURIComponent(window.location) +
       "&amp;text=" +
       encodeURIComponent(document.title) +
-      '&amp;via=ramswarooppatra&amp;hashtags=ramandantara&amp;count=horizontal"' +
+      '&amp;via=prashant&amp;hashtags=prashantandrani&amp;count=horizontal"' +
       'style="width:105px; height:21px;">' +
       "</iframe>" +
       '<iframe src="//www.facebook.com/plugins/like.php?href=' +
