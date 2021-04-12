@@ -1,7 +1,7 @@
 # Wedding Website
 
 A beautiful, feature rich, device friendly wedding website.  
-See [prashantwedsrani.com](https://prashantwedsrani.com) live.
+See live: [prashantwedsrani.com](https://prashantwedsrani.com)
 
 # Highlights
 
