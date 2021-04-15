@@ -370,6 +370,12 @@ section .header {
 .hero .hero-content img {
   width: 55%;
   margin-bottom: 12%;
+  background-image: linear-gradient(
+    to right,
+    rgba(0.2, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
+  border-radius: 30px;
 }
 .navigation {
   transition: all 300ms ease-in-out;
