@@ -222,14 +222,14 @@ $(document).ready(function () {
       title: "Prashant and Rani's Wedding",
 
       // Event start date
-      start: new Date("May 28, 2021 10:00"),
+      start: new Date("July 22, 2021 10:00"),
 
       // Event duration (IN MINUTES)
       // duration: 120,
 
       // You can also choose to set an end time
       // If an end time is set, this will take precedence over duration
-      end: new Date("May 31, 2021 23:00"),
+      end: new Date("July 23, 2021 23:00"),
 
       // Event Address
       address: "Prince Lawn, Gorakhpur",
